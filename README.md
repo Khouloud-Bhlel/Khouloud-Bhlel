@@ -1,7 +1,12 @@
 ### Hi there 👋 I am  Khouloud Ben Hlel 
+
 ## Profile
 Full Stack JS Developer
 Third-year computer science student, specializing in information systems. Currently working on a web development internship project (2023-2024) with STE TUNIAOS S.A.R.L, passionate about computer science.
+| CV         | Company                                                                                                                              |
+|------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| CV canadien| [Download PDF CV canadien](https://raw.githubusercontent.com/khouloudbh23/CV-Fransh/master/cv-canadien-professionnel.pdf.pdf)        |
+| CV French | [Download PDF CV French](https://raw.githubusercontent.com/khouloudbh23/CV-Fransh/master/khouloud-ben-hlel.pdf.pdf)                   |
 
 ## Professional Experience
 
@@ -42,13 +47,5 @@ Third-year computer science student, specializing in information systems. Curren
 | React.js      |               |            | WordPress      |               | Desktop        |
 | Next.js       |               |            | Android        |               | Movie Maker    |
 | Angular       |               |            | Flutter        |               | Filmora        |
-
-
-
-
-
-
-
-
 
 
