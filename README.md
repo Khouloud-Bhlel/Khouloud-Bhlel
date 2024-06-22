@@ -3,7 +3,12 @@
 ## Profile
 Full Stack JS Developer
 
-Third-year computer science student, specializing in information systems. Currently working on a web development internship project (2023-2024) with STE TUNIAOS S.A.R.L, passionate about computer science.
+I am delighted to announce that I have completed my academic year by presenting my final project, "Design and Development of a Web/Mobile Application for Restaurant Delivery Management." I officially graduated with a Bachelor's degree in Information Technology, specializing in Information Systems Development, with honors on 20/06/2024 in ISET SFAX in Tunisia. 👩‍🎓🎓
+
+I had the opportunity to put my skills into practice during a 5-month internship at TuniAOS, where I could deepen my knowledge and contribute to exciting projects.
+
+As a third-year computer science student specializing in information systems, I completed a 5-month internship project (2023-2024) with STE TUNIAOS S.A.R.L. I was passionate about computer science. Now, I have received my diploma.
+
 | CV         | Company                                                                                                                              |
 |------------|--------------------------------------------------------------------------------------------------------------------------------------|
 | CV canadien| [Download PDF CV canadien](https://raw.githubusercontent.com/khouloudbh23/CV-Fransh/master/cv-canadien-professionnel.pdf.pdf)        |
@@ -15,7 +20,7 @@ Third-year computer science student, specializing in information systems. Curren
 | Experience Type              | Company                                      | Year    |
 |------------------------------|----------------------------------------------|-----------------|
 | Freelance - **Fiverr**           | **Independent**                              |**May 2022 - Present** |
-| Intern - **Internship Project**  | **STE TUNIAOS S.A.R.L**                      |**January - June 2024**|
+| Intern - **Internship Project**  | **STE TUNIAOS S.A.R.L**                      |**January - may 2024**|
 | Intern - **Advanced Internship** | **Standard Sharing Software (3S)**           |**01-31 July 2023**|
 | Intern - **Initiation Internship**| **BEST SARL**                               |**January 17 - February 12, 2022**|
 
