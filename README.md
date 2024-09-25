@@ -22,7 +22,7 @@ As a third-year computer science student specializing in information systems, I 
 
 | Experience Type              | Company                                      | Year    |
 |------------------------------|----------------------------------------------|-----------------|
-| Freelance - **Fiverr**           | **Independent**                              |**May 2022 - Present** |
+| Freelance -           | **Independent**                              |**May 2022 - Present** |
 | Intern - **Internship Project**  | **STE TUNIAOS S.A.R.L**                      |**January - may 2024**|
 | Intern - **Advanced Internship** | **Standard Sharing Software (3S)**           |**01-31 July 2023**|
 | Intern - **Initiation Internship**| **BEST SARL**                               |**January 17 - February 12, 2022**|
