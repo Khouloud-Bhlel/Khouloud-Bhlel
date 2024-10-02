@@ -13,10 +13,8 @@ As a third-year computer science student specializing in information systems, I 
 |------------|--------------------------------------------------------------------------------------------------------------------------------------|
 | CV canadien| [Download PDF CV canadien](https://raw.githubusercontent.com/khouloudbh23/CV-Fransh/master/cv-canadien-professionnel.pdf)         |
 | CV French  | [Download PDF CV French](https://raw.githubusercontent.com/Khouloud-Bhlel/CV-Fransh/master/CV-khouloud-ben-hlel-en-français.pdf) |
-| CV English | [Download PDF CV English](https://raw.githubusercontent.com/Khouloud-Bhlel/CV-Fransh/master/CV-khouloud-ben-hlel-en-anglais.pdf) |
+| CV English | [Download PDF CV English](https://raw.githubusercontent.com/Khouloud-Bhlel/CV-Fransh/master/cv-english-khouloud.pdf) |
 | Video      | [View CV Video](https://drive.google.com/file/d/1RpyErWuzXp0CO2fqFEnWMmaXnjlQAoDh/view?usp=drive_link) |
-
-
 
 ## Professional Experience
 
