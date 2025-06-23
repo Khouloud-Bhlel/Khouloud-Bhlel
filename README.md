@@ -3,6 +3,7 @@
 
 🎓 **New Graduate** with Bachelor's in Information Technology (Information Systems Development) from ISET Sfax, Tunisia (Honors - June 2024)
 
+🚀 **3+ years** professional experience as a **Full Stack Developer ** at **FreeLancing** 
 🚀 **6+ months** professional experience as a **Full Stack Developer ** at **Proservices Training Company** 
 
 ## 🔭 Current Focus
