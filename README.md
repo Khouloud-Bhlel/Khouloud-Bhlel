@@ -5,7 +5,15 @@
 
 🚀 **3+ years** professional experience as a **Full Stack Developer ** at **FreeLancing** 
 
-🚀 **6+ months** professional experience as a **Full Stack Developer ** at **Proservices Training Company** 
+🚀 **6+ months** professional experience as a **Full Stack Developer ** at **Proservices Training Company**
+
+### ✨ New Opportunity
+
+work on Algo Leap Solutions / Advancing Trade S.p.A. (Italy) start from 25/06/2025 as a SOFTWER DEVOLOPER
+- Database developed : create tables , procedures,functions,triggers,views in mysql server managment .
+- integration Vozitel APIS using C# and .NET .
+- SELENIUM automations suing python .
+- full stack application (backend , frontend).
 
 ## 🔭 Current Focus
 - Building robust web/mobile applications with modern JavaScript stack
