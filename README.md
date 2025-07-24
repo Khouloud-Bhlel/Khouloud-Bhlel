@@ -10,10 +10,11 @@
 ### ✨ New Opportunity
 
 work on Algo Leap Solutions / Advancing Trade S.p.A. (Italy) start from 25/06/2025 as a SOFTWER DEVOLOPER
-- Database developed : create tables , procedures,functions,triggers,views in mysql server managment .
-- integration Vozitel APIS using C# and .NET .
-- SELENIUM automations suing python .
-- full stack application (backend , frontend).
+- Database developed : Create tables , procedures,functions,triggers,views in Mysql server management.
+- Create scripts for uplode data exel using Mysql server management.
+- Integration Vozitel APIs using C# and .NET.
+- Selenium automations using Python.
+- Full stack application (Backend , Frontend).
 
 ## 🔭 Current Focus
 - Building robust web/mobile applications with modern JavaScript stack
