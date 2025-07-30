@@ -64,8 +64,16 @@ work on Algo Leap Solutions / Advancing Trade S.p.A. (Italy) start from 25/06/20
 
 ## 💼 Professional Experience
 
+### **SOFTWARE ENGINEER **
+** Algo Leap Solutions / Advancing Trade S.p.A. (Italy) ** | 25 june 2025 - present
+- Database developed : Create tables , procedures,functions,triggers,views in Mysql server management.
+- Create scripts for uplode data exel using Mysql server management.
+- Integration Vozitel APIs using C# and .NET.
+- Selenium automations using Python.
+- Full stack application (Backend , Frontend).
+
 ### **Full Stack Developer **
-**Proservices Training Company ** | Nov 2024 - Present
+**Proservices Training Company ** | Nov 2024 - May 2025
 - Working as a Full Stack Developer in a 6-month internship .
 - Building and maintaining full-stack applications using ReactJS, Node.js, Typescript, MongoDB, and Material-UI.
 - Contributing to the development of event management systems and other business applications.
