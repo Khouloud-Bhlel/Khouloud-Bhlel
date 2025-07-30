@@ -72,7 +72,7 @@ work on Algo Leap Solutions / Advancing Trade S.p.A. (Italy) start from 25/06/20
 - Selenium automations using Python.
 - Full stack application (Backend , Frontend).
 
-### **Full Stack Developer **
+### Full Stack Developer 
 **Proservices Training Company ** | Nov 2024 - May 2025
 - Working as a Full Stack Developer in a 6-month internship .
 - Building and maintaining full-stack applications using ReactJS, Node.js, Typescript, MongoDB, and Material-UI.
