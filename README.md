@@ -9,7 +9,7 @@
 
 ### ✨ New Opportunity
 
-work on Algo Leap Solutions / Advancing Trade S.p.A. (Italy) start from 25/06/2025 as a SOFTWER DEVOLOPER
+work on Algo Leap Solutions / Advancing Trade S.p.A. (Italy) start from 25/06/2025 as a SOFTWARE ENGINEER
 - Database developed : Create tables , procedures,functions,triggers,views in Mysql server management.
 - Create scripts for uplode data exel using Mysql server management.
 - Integration Vozitel APIs using C# and .NET.
