@@ -14,7 +14,7 @@ work on Algo Leap Solutions / Advancing Trade S.p.A. (Italy) start from 25/06/20
 - Create scripts for uplode data exel using Mysql server management.
 - Integration Vozitel APIs using C# and .NET.
 - Selenium automations using Python.
-- Full stack application (Backend , Frontend).
+- Full stack application (Backend "Python,Nodejs, Nestjs", Frontend "Reactjs , Nextjs" ).
   
 ## 🔭 Current Focus
 - Building robust web/mobile applications with modern JavaScript stack
